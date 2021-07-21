@@ -7,13 +7,6 @@
 >
 
 <url>
- <loc>https://store.steampowered.com/app/269950/XPlane_11/</loc>
- <priority>0.3</priority>
- <lastmod>2021-07-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
  <loc>https://gzzg.pages.dev/</loc>
  <priority>0.3</priority>
  <lastmod>2021-07-21</lastmod>
@@ -22,34 +15,6 @@
 
 <url>
  <loc>https://CLAT-XPlane.pages.dev/</loc>
- <priority>0.3</priority>
- <lastmod>2021-07-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://www.x-plane.com/</loc>
- <priority>0.3</priority>
- <lastmod>2021-07-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://cloud.189.cn/t/AN7j6bJbYjua</loc>
- <priority>0.3</priority>
- <lastmod>2021-07-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://pan.baidu.com/s/1CJE2ue4B7OCoM6aeZk_CeQ</loc>
- <priority>0.3</priority>
- <lastmod>2021-07-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://jq.qq.com/?_wv=1027&amp;k=jGK0ffNt</loc>
  <priority>0.3</priority>
  <lastmod>2021-07-21</lastmod>
  <changefreq>weekly</changefreq>
@@ -76,12 +41,5 @@
  <changefreq>weekly</changefreq>
 </url>
 
-
-<url>
- <loc>http://pan.baidu.com/s/1i3J3aGP</loc>
- <priority>0.3</priority>
- <lastmod>2021-07-21</lastmod>
- <changefreq>weekly</changefreq>
-</url>
 
 </urlset>
